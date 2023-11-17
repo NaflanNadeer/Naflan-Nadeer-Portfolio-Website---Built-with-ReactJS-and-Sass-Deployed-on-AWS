@@ -1,13 +1,13 @@
 {
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
-    "imgLink": "/images/section/hero.jpg",
+    "imgLink": "/images/section/Hero.png",
     "title": "Naflan <br /> Nadeer",
     "subTitle": "Hello, I’m",
     "designation": "Software Engineer"
   },
   "aboutData": {
-    "imgLink": "/images/section/about-me.jpg",
+    "imgLink": "/images/section/About.png",
     "cvPdf": "/images/Naflan_Nadeer.pdf",
     "title": "Hi There! I'm Naflan Nadeer",
     "subtitle": "Software Engineer",
