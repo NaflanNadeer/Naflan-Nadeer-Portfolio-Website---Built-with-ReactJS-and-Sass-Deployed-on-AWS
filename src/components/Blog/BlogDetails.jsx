@@ -183,21 +183,18 @@ const BlogDetails = () => {
                   <div className="st-post-share">
                     <h4 className="st-post-share-title">Share:</h4>
                     <div className="st-post-share-btn-list">
-                      <Link to="#">
+                      <Link to="https://web.facebook.com/naflan.nadeer">
                         <Icon icon="fa6-brands:facebook-f" />
                       </Link>
-                      <Link to="#">
+                      <Link to="https://twitter.com/naflan_nadeer">
                         <Icon icon="fa6-brands:twitter" />
                       </Link>
-                      <Link to="#">
-                        <Icon icon="fa6-brands:behance" />
-                      </Link>
-                      <Link to="#">
+                      <Link to="https://www.instagram.com/naflan_nadeer/">
                         <Icon icon="fa6-brands:instagram" />
                       </Link>
-                      <Link to="#">
+                      {/* <Link to="#">
                         <Icon icon="fa6-brands:pinterest-p" />
-                      </Link>
+                      </Link> */}
                     </div>
                   </div>
                 </div>
