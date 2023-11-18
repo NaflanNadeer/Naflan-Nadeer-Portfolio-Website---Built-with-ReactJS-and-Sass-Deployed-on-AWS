@@ -55,14 +55,14 @@ const PortfolioSection = ({ data }) => {
             ))}
             <div className="col-lg-12 text-center">
               <div className="st-portfolio-btn">
-                {showLoadMore && (
+                {/* {showLoadMore && (
                   <button
                     className="st-btn st-style1 st-color1"
                     onClick={loadMoreItems}
                   >
                     Load more
                   </button>
-                )}
+                )} */}
               </div>
             </div>
           </div>
