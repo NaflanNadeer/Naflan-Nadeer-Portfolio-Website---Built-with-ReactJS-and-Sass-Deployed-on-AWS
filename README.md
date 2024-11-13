@@ -1,4 +1,4 @@
-**Naflan Nadeer Portfolio Website - Built with ReactJS and Sass, Deployed on AWS**
+## Naflan Nadeer Portfolio Website - Built with ReactJS and Sass, Deployed on AWS
 
 ## Description
 
