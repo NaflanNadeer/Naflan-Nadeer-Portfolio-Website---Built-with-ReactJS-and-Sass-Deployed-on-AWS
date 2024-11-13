@@ -1,6 +1,4 @@
-# Naflan Nadeer - Portfolio Website
-
-![Portfolio Preview](https://main.d2q2lmrqi5ydso.amplifyapp.com/)
+**Naflan Nadeer Portfolio Website - Built with ReactJS and Sass, Deployed on AWS**
 
 ## Description
 
